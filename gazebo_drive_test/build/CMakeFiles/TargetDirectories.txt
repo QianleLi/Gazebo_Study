@@ -1,0 +1,3 @@
+/home/qianle/gazebo_drive_test/build/CMakeFiles/rebuild_cache.dir
+/home/qianle/gazebo_drive_test/build/CMakeFiles/vel_pub.dir
+/home/qianle/gazebo_drive_test/build/CMakeFiles/edit_cache.dir
