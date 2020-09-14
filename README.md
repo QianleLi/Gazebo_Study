@@ -63,7 +63,7 @@ cd build
 cmake ..
 make
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:~/[package_name]/build
-gazebo --verbose ../velodyne.world
+gazebo --verbose ../[world_file_name].world
 ```
 ## Publisher and subscriber
 
